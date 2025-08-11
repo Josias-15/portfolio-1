@@ -23,8 +23,8 @@ const projects = [
   },
   {
     id: 2,
-    title: "Portfolio Analytics",
-    description: "Un dashboard interactif pour visualiser et analyser les données d'entreprise.",
+    title: "Portfolio",
+    description: "Site pour présenter ses compétences et attirer des opportunités professionnelles.",
     image: "/images/portfolio1.png",
     tags: ["React.js", "Tailwind"],
     demoLink: "#",
@@ -37,7 +37,7 @@ const projects = [
     image: "/images/vy.jpg", // Using Ecommerce image as fallback for the third project
     tags: ["React Native", "Node.js", "Express", "MongoDB"],
     demoLink: "#",
-    codeLink: "#",
+    codeLink: "https://github.com/Josias-15/Reservation_Billet_Voyage_App",
   },
 ];
 
