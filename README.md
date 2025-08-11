@@ -1,5 +1,7 @@
 # Portfolio-UI Template Usage Instructions
 
+![Texte alternatif](/public/images/image.png)
+
 ## technology stack
 
 This project is built with:
