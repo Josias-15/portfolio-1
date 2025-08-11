@@ -1,4 +1,4 @@
-# Shadcn-UI Template Usage Instructions
+# Portfolio-UI Template Usage Instructions
 
 ## technology stack
 
@@ -7,10 +7,10 @@ This project is built with:
 - Vite
 - TypeScript
 - React
-- shadcn-ui
+- Portfolio-ui
 - Tailwind CSS
 
-All shadcn/ui components have been downloaded under `@/components/ui`.
+All Portfolio/ui components have been downloaded under `@/components/ui`.
 
 ## File Structure
 
@@ -24,7 +24,7 @@ All shadcn/ui components have been downloaded under `@/components/ui`.
 
 ## Components
 
-- All shadcn/ui components are pre-downloaded and available at `@/components/ui`
+- All Portfolio/ui components are pre-downloaded and available at `@/components/ui`
 
 ## Styling
 
