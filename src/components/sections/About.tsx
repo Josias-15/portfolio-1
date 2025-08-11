@@ -66,7 +66,7 @@ export default function About() {
           <div className="order-1 md:order-2 flex justify-center md:justify-end mb-8 md:mb-0">
             <div className="w-60 h-60 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-gray-100 shadow-lg">
               <img 
-                src="public/images/pp.jpg" 
+                src="images/pp.jpg" 
                 alt="Portrait" 
                 className="w-full h-full object-cover"
               />
