@@ -66,7 +66,7 @@ export default function About() {
           <div className="order-1 md:order-2 flex justify-center md:justify-end mb-8 md:mb-0">
             <div className="w-60 h-60 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-gray-100 shadow-lg">
               <img 
-                src="public/images/pp.jpg" 
+                src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-1/491808606_122132124980717383_4081620607502350933_n.jpg?stp=c0.0.788.788a_dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGplwtXl0yopKrX_2_JkfWgd-ty1yOaE95363LXI5oT3uHbXypYq9YeeqvGRpCaV3cHDAvpLQxHMkWcWNs-0OW5&_nc_ohc=88cybc8LL0YQ7kNvwG-QkiB&_nc_oc=Adnx9-PP2Q7Yj8q_LDJbe6MeqL4SZJH3HxgPwOaMZX3w_xdNXyG0O42mKlsPcra8AZmm8lKcc9CpnHA4u6voEEW3&_nc_zt=24&_nc_ht=scontent-los2-1.xx&_nc_gid=aEgfOXsT9VQux-Tku8qAtg&oh=00_AfUUNrgDfbuAK9EOPp-6JkFk5PaMGx83QfRROJpKzwX-2w&oe=689FA9BC" 
                 alt="Portrait" 
                 className="w-full h-full object-cover"
               />
