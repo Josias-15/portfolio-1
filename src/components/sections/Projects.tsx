@@ -35,7 +35,7 @@ const projects = [
     title: "Application de Réservation de billets de Voyage",
     description: "Une app pour reserver les billets de voyage inter-urbain dans differente agence de voyage.",
     image: "/images/vy.jpg",
-    tags: ["React Native", "Node.js", "Express", "MongoDB"],
+    tags: ["React Native", "Node.js", "Express", "PostgreSQL"],
     demoLink: "#",
     codeLink: "https://github.com/Josias-15/Reservation_Billet_Voyage_App",
   },
