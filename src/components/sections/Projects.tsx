@@ -10,16 +10,16 @@ import {
 import { Badge } from "@/components/ui/badge";
 import { ExternalLink, Github, ArrowRight } from "lucide-react";
 
-// Project data with local images
+
 const projects = [
   {
     id: 1,
     title: "E-commerce Platform",
     description: "Une plateforme e-commerce avec panier, paiement et gestion des commandes.",
-    image: "/images/Ecommerce.jpg",
-    tags: ["React", "Node.js", "MongoDB", "Stripe"],
+    image: "/images/cap.png",
+    tags: ["React", "Node.js", "MongoDB"],
     demoLink: "#",
-    codeLink: "#",
+    codeLink: "https://github.com/Josias-15/iZiShop_1",
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const projects = [
     id: 3,
     title: "Application de Réservation de billets de Voyage",
     description: "Une app pour reserver les billets de voyage inter-urbain dans differente agence de voyage.",
-    image: "/images/vy.jpg", // Using Ecommerce image as fallback for the third project
+    image: "/images/vy.jpg",
     tags: ["React Native", "Node.js", "Express", "MongoDB"],
     demoLink: "#",
     codeLink: "https://github.com/Josias-15/Reservation_Billet_Voyage_App",
@@ -103,8 +103,11 @@ export default function Projects() {
 
         <div className="text-center mt-12">
           <Button variant="outline" size="lg" className="group">
-            Voir tous les projets
-            <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
+            <a href="https://github.com/Josias-15" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center"> 
+              Voir tous les projets
+              <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
+            </a>  
+            
           </Button>
         </div>
       </div>
