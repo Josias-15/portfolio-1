@@ -31,7 +31,7 @@ export default function About() {
               <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">Tailwind CSS</Badge>
               <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">Next.js</Badge>
               <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">Ionic</Badge>
-              <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">Git</Badge>
+              <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">Java</Badge>
               <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">Git</Badge>
             </div>
 
