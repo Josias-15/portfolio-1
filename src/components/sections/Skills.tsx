@@ -9,12 +9,13 @@ import { Code, Layout, Database, Wrench, Globe, Sparkles } from "lucide-react";
 
 // Updated skills data
 const technicalSkills = [
-  { name: "HTML & CSS", level: 90 },
-  { name: "JavaScript", level: 85 },
-  { name: "React.js", level: 80 },
-  { name: "Node.js", level: 75 },
-  { name: "TypeScript", level: 70 },
-  { name: "Git", level: 85 },
+  { name: "HTML & CSS", level: 78 },
+  { name: "JavaScript", level: 63 },
+  { name: "React", level: 70 },
+  { name: "Node.js", level: 74 },
+  { name: "Spring boot", level: 70 },
+  { name: "Laravel", level: 53 },
+  { name: "Git", level: 76 },
 ];
 
 const skillCategories = [
@@ -22,19 +23,19 @@ const skillCategories = [
     title: "Frontend",
     icon: <Layout className="h-6 w-6 text-white" />,
     color: "from-blue-500 to-blue-600",
-    skills: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS", "SASS"],
+    skills: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS","React", "React Native", "Ionic"],
   },
   {
     title: "Backend",
     icon: <Code className="h-6 w-6 text-white" />,
     color: "from-teal-500 to-teal-600",
-    skills: ["Node.js", "Express", "REST API"],
+    skills: ["Node.js", "Express", "Laravel", "Spring boot", "REST API"],
   },
   {
     title: "Base de données",
     icon: <Database className="h-6 w-6 text-white" />,
     color: "from-indigo-500 to-indigo-600",
-    skills: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+    skills: ["MySQL", "PostgreSQL","MongoDB", "Firebase"],
   },
   {
     title: "Outils & Méthodes",
