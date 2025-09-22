@@ -25,7 +25,7 @@ export default function About() {
             </p>
 
             <div className="flex flex-wrap gap-2 mb-8">
-              <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">HTML, CSS, Js</Badge>
+              <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">HTML/CSS/Js</Badge>
               <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">React</Badge>
               <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">Node.js</Badge>
               <Badge variant="outline" className="bg-blue-50 text-blue-700 hover:bg-blue-100">Tailwind CSS</Badge>
